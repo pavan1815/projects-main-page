@@ -16,8 +16,10 @@ body{
 h1{
     text-align: center;
 }
-button{
-    cursor: pointer;
+li{
+    font-size: 25px;
+    padding-left: 0;
+    list-style-type:circle;
 }
 a{
     text-decoration: none;
